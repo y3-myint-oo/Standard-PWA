@@ -12,9 +12,13 @@ build:
 		@echo ""
 
 run:	
-		@echo "==== Runngin React Project ===="
+		@echo "==== Running React Project ===="
 		docker run --rm -d -p $(port):3000 $(name):$(tag)
 		@echo ""	
+
+push:	
+		@echo "==== Pushing to DockerHub ===="
+		docker push $(name):$(name)
 
 clean:
 		@echo "==== Clean ===="
