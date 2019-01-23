@@ -1,7 +1,7 @@
 ### Supported Features
 - [x] Redux
 - [x] Redux Persistence
-- [ ] Production mode
+- [x] Production mode
 
 
 
