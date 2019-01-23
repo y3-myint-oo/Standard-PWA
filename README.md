@@ -1,2 +1,2 @@
 ### Supported Features
-- [*] Redux
+- [x] Redux
