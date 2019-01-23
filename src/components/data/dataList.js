@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { bindActionCreators } from 'redux';
 import { addData,removeData } from '../../actions/data_action';
 
 class DataList extends Component {
