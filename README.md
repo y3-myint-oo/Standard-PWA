@@ -11,6 +11,8 @@
 - [ ] W3C - Vibration
 - [ ] W3C - Wake Lock
 - [ ] W3C - Web Notifications
+- [ ] PRPL Pattern
+- [ ] React Router
 
 
 
