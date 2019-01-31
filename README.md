@@ -13,7 +13,7 @@
 - [ ] W3C - Web Notifications
 - [ ] PRPL Pattern
 - [ ] React Router
-
+- [ ] Home / Splash Icons
 
 
 
